@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/V1CKY-DEV/VICKY-DEV/style.css">
 # Hi there, I'm Burhan Farooq. 👋
 
 ## About Me
