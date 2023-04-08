@@ -1,0 +1,13 @@
+.instagram-button {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.instagram-button img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
