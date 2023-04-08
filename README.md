@@ -23,7 +23,7 @@ Some of my recent projects include:
 - ASP.NET/C#
 - Winform
 - Chrome extensions
-
+<a bgcolor="#00FFFF">Instagram</a>
 ## Contact Me
 
 Feel free to connect with me on LinkedIn, follow me on Twitter, or check out my portfolio for more information about my work:
