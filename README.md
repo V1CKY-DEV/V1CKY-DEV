@@ -27,9 +27,11 @@ Some of my recent projects include:
 
 Feel free to connect with me on LinkedIn, follow me on Twitter, or check out my portfolio for more information about my work:
 
-<a href="https://www.instagram.com/your_username/" style="border-1 px white ;border-radius:12px ">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<span style="display: inline-block; margin-right: 10px; margin-bottom: 10px;">
+  <a href="https://www.instagram.com/your_username/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;"/>
+  </a>
+</span>
 
 <!-- ## Stats
 
