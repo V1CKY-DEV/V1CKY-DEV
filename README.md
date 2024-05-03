@@ -4,6 +4,14 @@
 <p align="left">
 <a href="https://valleyorganics.in/dev" target="blank">PortFolio</a><br>
 <a href="https://valleyorganics.in" target="blank">Valley Organics (Freelancing Project)</a>
+  <br>
+<a href="https://www.figma.com/file/i8nJT3Xqx7GrWwveavLR3C/proje?type=design&node-id=0%3A1&mode=design&t=r9MS3Glyc3Tbcw8P-1" target="blank">UI Design #1 (Figma)</a>
+  <br>
+<a href="https://www.figma.com/file/TjptxeVX2crrtwP1tvu9Hb/movie?type=design&node-id=0%3A1&mode=design&t=oN8ZZCS8ucY8XQ94-1" target="blank">UI Design #2 (Figma)</a>
+  <br>
+<a href="https://www.figma.com/file/iEoLQkBPdMSzmCu6CbE0np/proje-(Copy)?type=design&node-id=0-1&mode=design&t=Y97kLbPGa7iGgeNa-0" target="blank">UI Design #3 (Figma)</a>
+  <br>
+<a href="https://www.figma.com/file/WQnJVSnIgyTvzXXVbI8Bzc/Untitled?type=design&node-id=0%3A1&mode=design&t=XNCvQFhltNihwwlx-1" target="blank">UI Design #4 (Figma)</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
